@@ -1,39 +1,28 @@
-# INFINITE SIGNAL LABS
-### "We listen to machines."
+# Obsidian
+**Billy Hoeffel** — Personal Repository | Missoula, MT
 
-**Billy Hoeffel** — Founder & Builder | Missoula, MT
+This is a personal profile repository. For the main **Infinite Signal Labs** projects, visit the organization:
 
----
+## 🔗 Main Projects
+**→ [Infinite Signal Labs Organization](https://github.com/infinite-signal-labs)**
 
-## What I'm Building
+All active projects and products are now organized under the Infinite Signal Labs GitHub organization:
 
-| Product | Stack | Status |
-|---|---|---|
-| **SPECTRA** — AI Predictive Machine Intelligence | Python · Firebase · Gemini | 🔨 In Dev |
-| **DIAGNOSTIX** — AI OBD2 Vehicle Diagnostics | Android · Firebase · Gemini | 🔨 In Dev |
-| **SOUNDFORGE + CLEARWAVE** — AI Audio Cleanup | Python · DSP · Firebase | 🔨 In Dev |
-| **Signal Academy** — Distribution & Education Strategy | Content · Community | 📡 Building |
-| **Agent-Bones** — Core ISL AI Agent | Python · OpenClaw · n8n · Claude · Gemini | ⚡ Active |
-
----
-
-## Tech Stack
-
-```
-Android/Termux  ·  Chromebook Crostini (Debian)
-Python  ·  Node.js  ·  Gemini API  ·  Claude
-OpenClaw  ·  n8n  ·  Agent-Bones
-Firebase  ·  AI Agents
-```
+| Product | Repository | Stack | Status |
+|---|---|---|---|
+| **DIAGNOSTIX** — AI OBD2 Vehicle Diagnostics | [infinite-signal-labs/diagnostix](https://github.com/infinite-signal-labs/diagnostix) | Android · Firebase · Gemini | 🔨 In Dev |
+| **SOUNDFORGE + CLEARWAVE** — AI Audio Cleanup | [infinite-signal-labs/soundforge](https://github.com/infinite-signal-labs/soundforge) | Python · DSP · Firebase | 🔨 In Dev |
+| **Agent-Bones** — Core ISL AI Agent | [infinite-signal-labs/agent-bones](https://github.com/infinite-signal-labs/agent-bones) | Python · OpenClaw · n8n · Claude · Gemini | ⚡ Active |
+| **Ledger** — Logging & System Management | [infinite-signal-labs/ledger](https://github.com/infinite-signal-labs/ledger) | Python · Logging | 🔧 Active |
 
 ---
 
-## Background
-
+## About
 Construction → Electrical → Trades → Tech.
 Running a self-hosted, privacy-first AI + software lab from a Chromebook and a Pixel 10 Pro.
 Building in public. Shipping real products with real customers.
 
----
-
-*Infinite Signal Labs — Missoula, MT*
+**Founder** — Billy Hoeffel  
+**Location** — Missoula, MT  
+**Organization** — [Infinite Signal Labs](https://github.com/infinite-signal-labs)  
+**Tagline** — "We listen to machines."
