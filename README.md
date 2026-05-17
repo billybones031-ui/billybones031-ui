@@ -1,39 +1,57 @@
-# INFINITE SIGNAL LABS
-### "We listen to machines."
+# Billy Hoeffel
 
-**Billy Hoeffel** — Founder & Builder | Missoula, MT
-
----
-
-## What I'm Building
-
-| Product | Stack | Status |
-|---|---|---|
-| **SPECTRA** — AI Predictive Machine Intelligence | Python · Firebase · Gemini | 🔨 In Dev |
-| **DIAGNOSTIX** — AI OBD2 Vehicle Diagnostics | Android · Firebase · Gemini | 🔨 In Dev |
-| **SOUNDFORGE + CLEARWAVE** — AI Audio Cleanup | Python · DSP · Firebase | 🔨 In Dev |
-| **Signal Academy** — Distribution & Education Strategy | Content · Community | 📡 Building |
-| **Agent-Bones** — Core ISL AI Agent | Python · OpenClaw · n8n · Claude · Gemini | ⚡ Active |
+**Founder & Chief Engineer** at [Infinite Signal Labs](https://github.com/infinite-signal-labs) | AI Systems Architect | Missoula, MT
 
 ---
 
-## Tech Stack
+## 🎯 Mission
 
-```
-Android/Termux  ·  Chromebook Crostini (Debian)
-Python  ·  Node.js  ·  Gemini API  ·  Claude
-OpenClaw  ·  n8n  ·  Agent-Bones
-Firebase  ·  AI Agents
-```
+*We listen to machines.* Building intelligent systems that understand, diagnose, and automate real-world problems through AI.
 
 ---
 
-## Background
+## 🛠️ What I Build
 
-Construction → Electrical → Trades → Tech.
-Running a self-hosted, privacy-first AI + software lab from a Chromebook and a Pixel 10 Pro.
-Building in public. Shipping real products with real customers.
+| Product | Focus | Stack | Status |
+|---------|-------|-------|--------|
+| **SPECTRA** | AI Predictive Machine Intelligence | Python · Firebase · Gemini | In Development |
+| **DIAGNOSTIX** | AI OBD2 Vehicle Diagnostics | Android · Firebase · Gemini | In Development |
+| **SOUNDFORGE + CLEARWAVE** | AI Audio Processing | Python · ML · DSP | In Development |
+| **Hermes** | Self-Hosted Automation | Docker · Node.js · n8n | Planning |
 
 ---
 
-*Infinite Signal Labs — Missoula, MT*
+## 🚀 Featured Projects
+
+**Organization:** [@infinite-signal-labs](https://github.com/infinite-signal-labs) - Production AI tools & infrastructure
+
+**Infrastructure:**
+- [isl-infrastructure](https://github.com/billybones031-ui/isl-infrastructure) - Complete ISL stack
+- - [infinite-signal](https://github.com/billybones031-ui/infinite-signal) - Central ledger & operations
+  - - [self-hosted-ai-starter-kit](https://github.com/billybones031-ui/self-hosted-ai-starter-kit) - Open-source AI template
+   
+    - **Community Tools:**
+    - - [openclaw](https://github.com/billybones031-ui/openclaw) - Personal AI assistant
+      - - [free-claude-code](https://github.com/billybones031-ui/free-claude-code) - Free Claude integration
+       
+        - ---
+
+        ## 💻 Tech Stack
+
+        **Languages:** Python, TypeScript, JavaScript, Kotlin
+        **Platforms:** Firebase, Android, Linux, Docker
+        **AI/ML:** Gemini, Claude, n8n, TensorFlow
+        **DevOps:** Docker, GitHub Actions, Self-Hosted Runners
+
+        ---
+
+        ## 🤝 Connect
+
+        - 📧 **Email:** bones.sh@proton.me
+        - - 🌐 **Website:** https://www.infinite-signal-labs.com
+          - - 🐙 **Organization:** [@infinite-signal-labs](https://github.com/infinite-signal-labs)
+            - - 📍 **Location:** Missoula, MT, USA
+             
+              - ---
+
+              **MIT License** | May 2026
